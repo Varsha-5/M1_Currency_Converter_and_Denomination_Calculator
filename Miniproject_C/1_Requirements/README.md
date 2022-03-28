@@ -16,5 +16,43 @@
  #### FEATURES:
   *
   
+  # 4W&#39;s and 1&#39;H
+
+## Who:
+
+1. Electronics engineering students
+2. Digital circuit developer
+
+## What:
+A person can convert data to a desired format with the help of this project in timely manner.
+
+
+## When:
+
+1. At the initial stage of digital circuit designing operation.
+
+## Where:
+
+This project can be used by students as well as circuit developers where such calculations are needed.
+
+## How:
+
+This project can perform various calculations at the same and make user's task smooth and effortless.
+
+# Detail requirements
+## High Level Requirements:
+
+| ID | Description | Status (Implemented/Future)|
+|:---:|:---:|:---:|
+|HLR-1| User shall be able to convert data from decimal system to another |Implemented|
+|HLR-2| System output must display data without any error |Implemented|
+|HLR-3| User shall be able to convert data between any number systems|Future|
+|HLR-4| User shall be able to convert a negative data value|Future|
+
+##  Low level Requirements:
+| ID | Description | Status (Implemented/Future)|
+|:---:|:---:|:---:|
+|LLR-1|User shall be able to read the output data|Implemented| 
+  
 
          
