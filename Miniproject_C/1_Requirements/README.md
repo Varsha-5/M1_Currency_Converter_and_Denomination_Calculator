@@ -16,7 +16,7 @@
  ### FEATURES:
   * EXPLORE CURRENCY:
     
-    ![image](https://github.com/Varsha-5/M1_Project-name/commit/eba3e328ab1c76e697772f1c310003cbb70fd829)
+    ![image](https://github.com/Varsha-5/M1_Project-name/blob/main/Certificates_1/EXPLORE%20Diagram.drawio.png)
  
   * COMPARE CURRENCIES:
      
