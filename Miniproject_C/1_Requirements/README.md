@@ -15,6 +15,9 @@
      * The user will be able to produce denominations for a given amount.
  #### FEATURES:
   *
+  ##### RESEARCH:
+  
+  ![image](https://github.com/Varsha-5/M1_Project-name/blob/main/ResearchDiagram.drawio.png)
   
   # 4W&#39;s and 1&#39;H
 
