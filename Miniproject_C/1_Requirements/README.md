@@ -20,39 +20,46 @@
 
 ## Who:
 
-1. Electronics engineering students
-2. Digital circuit developer
+1. C Developer.
+2. Application Developer
 
 ## What:
-A person can convert data to a desired format with the help of this project in timely manner.
+
+1. A person can explore a parfticular currency.
+2. A person can compare two different currencies.
+3. A person can convert the foreign amount to the indian equivalent.
+4. A person can find the denomination of a particular amount in 10 different countries.
 
 
 ## When:
 
-1. At the initial stage of digital circuit designing operation.
+1. At times of arising in the requiremnet of converting the Foreign currencies to the Indian Equivalent.
 
 ## Where:
-
-This project can be used by students as well as circuit developers where such calculations are needed.
+ 
+1. It is used by the explorers who travel around the world.
+2.  t is used by the bussiness people who do bussiness in overseas.
+3. It is also used by the people who wish to convert the indian equivalent of a foreign currency.
 
 ## How:
 
-This project can perform various calculations at the same and make user's task smooth and effortless.
+This project can perform money  calculations  and  is user friendly by making the user comfort.
 
 # Detail requirements
 ## High Level Requirements:
 
 | ID | Description | Status (Implemented/Future)|
 |:---:|:---:|:---:|
-|HLR-1| User shall be able to convert data from decimal system to another |Implemented|
-|HLR-2| System output must display data without any error |Implemented|
-|HLR-3| User shall be able to convert data between any number systems|Future|
-|HLR-4| User shall be able to convert a negative data value|Future|
+|HLR-1| User shall be able to convert currency data from one country to Indian Equivalent.|Implemented|
+|HLR-2| System output must display data without any bug |Implemented|
+|HLR-3| User shall be able to produce the denomination for the specific amount entered by the user.|Implemented|
+|HLR-4| User shall be able to convert currency data from one country to Indian Equivalent and calculate denominations for more than 10 countries.|Future|
+|HLR-5| User shall be able to convert currency data from one country to any other country depending upon the user input.|Future|
 
 ##  Low level Requirements:
 | ID | Description | Status (Implemented/Future)|
 |:---:|:---:|:---:|
-|LLR-1|User shall be able to read the output data|Implemented| 
+|LLR-1|User shall be able to read the output data without any difficulties.|Implemented| 
   
 
          
