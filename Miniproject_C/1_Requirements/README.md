@@ -14,7 +14,23 @@
      * The user will be able to perform a currency exchange.
      * The user will be able to produce denominations for a given amount.
  ### FEATURES:
-  *
+  * EXPLORE CURRENCY:
+    
+    ![image](https://github.com/Varsha-5/M1_Project-name/commit/eba3e328ab1c76e697772f1c310003cbb70fd829)
+ 
+  * COMPARE CURRENCIES:
+     
+     ![image](https://github.com/Varsha-5/M1_Project-name/blob/main/COMPARE%20Diagram.drawio.png)
+     
+     
+  * EXCHANGE:
+  
+     ![image](https://github.com/Varsha-5/M1_Project-name/blob/main/EXCHANGE%20Diagram.drawio.png)
+ 
+  * DENOMINATION CALCULATOR:
+
+     ![image](https://github.com/Varsha-5/M1_Project-name/blob/main/DENOMINATION%20Diagram.drawio.png)
+  
   ### RESEARCH:
   
   ![image](https://github.com/Varsha-5/M1_Project-name/blob/main/ResearchDiagram.drawio.png)
