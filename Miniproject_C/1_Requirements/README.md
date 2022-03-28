@@ -13,9 +13,9 @@
      * The user will be able to compare two different currencies.
      * The user will be able to perform a currency exchange.
      * The user will be able to produce denominations for a given amount.
- #### FEATURES:
+ ### FEATURES:
   *
-  ##### RESEARCH:
+  ### RESEARCH:
   
   ![image](https://github.com/Varsha-5/M1_Project-name/blob/main/ResearchDiagram.drawio.png)
   
