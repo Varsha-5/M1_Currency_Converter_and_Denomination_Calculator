@@ -9,10 +9,10 @@
  * In this project,10 countries are chosen as a base and  four functions are  applied to all such 10 countries.
  * The ten countries chosen were 1.Dollar   2.Euro  3. Yen 4.Riyal  5.pound  6.Tukka 7.Peso   8.Rubble  9.Baht 10.Dong.
  * By using this project,
-         * The user will be able to explore a currency
-         * The user will be able to compare two different currencies.
-         * The user will be able to perform a currency exchange.
-         * The user will be able to produce denominations for a given amount.
+   * The user will be able to explore a currency
+     * The user will be able to compare two different currencies.
+     * The user will be able to perform a currency exchange.
+     * The user will be able to produce denominations for a given amount.
  #### FEATURES:
   *
   
