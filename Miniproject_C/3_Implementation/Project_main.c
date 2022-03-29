@@ -1,4 +1,6 @@
 //currency conversion
+#include<stdio.h>
+#include<stdlib.h>
 #include<Explore.h>
 #include<Compare.h>
 #include<Exchange.h>
