@@ -39,7 +39,15 @@
   break;
  }
     
- /* Calling test main*/
-    test_main();								/* Add function call */
-    return 0;
+   /* Initiate the Unity Test Framework */
+  UNITY_BEGIN();
+
+/* Run Test functions */
+  RUN_TEST(test_Explore);
+  RUN_TEST(test_Compare);
+  RUN_TEST(test_Exchange);
+  RUN_TEST(test_Denomination);
+
+  /* Close the Unity Test Framework */
+  return UNITY_END();
 	}
