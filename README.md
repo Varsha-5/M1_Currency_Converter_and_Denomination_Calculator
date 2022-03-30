@@ -1,5 +1,5 @@
-# M1_Project_2022
-
+# CURRENCY_CONVERTER_AND_DENOMINATION_CALCULATOR
+ 
 # Badges:
  * Bulid:
 
