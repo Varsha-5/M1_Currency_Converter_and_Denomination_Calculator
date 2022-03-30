@@ -45,11 +45,11 @@
     
    ## BEHAVIOURAL DIAGRAM:
      
-     ![image](https://github.com/Varsha-5/M1_Project-name/blob/main/Certificates_1/Untitled%20Diagram.drawio.png)
+   ![image](https://github.com/Varsha-5/M1_Project-name/blob/main/Certificates_1/Untitled%20Diagram.drawio.png)
 
    ## STRUCTURAL DIAGRAM:
     
-    ![image](https://github.com/Varsha-5/M1_Project-name/blob/main/STRUCUTALDiagram.drawio.png)
+   ![image](https://github.com/Varsha-5/M1_Project-name/blob/main/STRUCUTALDiagram.drawio.png)
 
   
   # 4W&#39;s and 1&#39;H
