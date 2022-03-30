@@ -37,15 +37,15 @@ Build | Code Quality | Unity | Analysis | [Git Inspector](using github.io option
 | Folder | Description |
 | :---: | :---: |
 | `1_Requirements` | Documents detailing requirements and research |
-| `2_Design` | Documents specifying design details |
-| `3_Implement` | All code and documentation |
-| `4_TestOutputs_Plan` | Documents with test plans and procedures |
+| `2_Design` | Documents specifying the flow of the project details |
+| `3_Implement` | Code with Documentation |
+| `4_TestOutputs_Plan` | Documents with Tested output and results |
 
 ## Contributors List and Summary
 
-|PS No. |  Name   |    Features    |No Test Cases|Test Case Pass|
+|S.No. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |:---:|:---:|:---:|:---:|:---:|
-|`260459` | Varsha R B  | Complete project   | 6   | 6     |
+|1. | Varsha R B  | Complete project   | 6   | 6     |
     
 
 ## Challenges Faced and How Was It Overcome
@@ -54,10 +54,10 @@ Build | Code Quality | Unity | Analysis | [Git Inspector](using github.io option
 2. **Unity testing:** Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
 
 ## Learning Resources
-1. [gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1)
-2. [Currencies](https://www.nationsonline.org/oneworld/currencies.htm)
-3. [Number system in digital elecronics](https://learnabout-electronics.org/Digital/dig11.php)
-4. [Dynamic memory allocation](https://www.programiz.com/c-programming/c-dynamic-memory-allocation)
-5. [git inspector](https://github.com/ejwa/gitinspector.git)
+1. [Currencies](https://www.nationsonline.org/oneworld/currencies.htm)
+2. [Visual Studio Code](https://flaviocopes.com/vscode/)
+3. [gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1)
+4. [Unity](http://www.throwtheswitch.org/unity)
+5. [Makefile](https://makefiletutorial.com)
 6. [github workflow](https://docs.github.com/en/actions/learn-github-action)
  
