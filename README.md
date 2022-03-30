@@ -54,7 +54,7 @@ Build | Code Quality | Unity | Analysis | [Git Inspector](using github.io option
 2. **Unity testing:** Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
 
 ## Learning Resources
-1. [Currencies](https://www.nationsonline.org/oneworld/currencies.htm)
+1. [A Research on Currencies](https://www.nationsonline.org/oneworld/currencies.htm)
 2. [Visual Studio Code](https://flaviocopes.com/vscode/)
 3. [gcc makefile](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html#zz-2.1)
 4. [Unity](http://www.throwtheswitch.org/unity)
