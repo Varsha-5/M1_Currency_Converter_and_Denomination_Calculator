@@ -1,4 +1,4 @@
-name: Code Quality - Dynamic Code Analysis-Valgrind
+name: Code Quality - Dynamic Code Analysis - Valgrind
 
 on:
   push:
@@ -20,4 +20,4 @@ jobs:
     - name: make test
       run: |
         make test -C MiniProject_C/3_Implementation/
-        valgrind ./MiniProject_C/3_Implementation/
+        valgrind ./MiniProject_C/3_Implementation/Build/Test_Currency_Converter_and_Denomination_Calculator.out
