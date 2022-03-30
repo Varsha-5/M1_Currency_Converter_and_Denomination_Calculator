@@ -15,3 +15,7 @@
  
  * [![Code Quality Static Code - Cppcheck](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/cppcheck.yml)
  
+ * Analysis:
+ 
+ * [![Analysis](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/Analysis.yml)
+ 
