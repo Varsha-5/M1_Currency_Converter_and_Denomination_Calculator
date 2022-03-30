@@ -14,6 +14,10 @@
  * Cppcheck Static code Analysis
  
  * [![Code Quality Static Code - Cppcheck](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/cppcheck.yml)
+
+ * Unit Testing:
+ 
+ * [![Unit testing](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/unit.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/unit.yml)
  
  * Analysis:
  
