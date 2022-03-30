@@ -82,8 +82,34 @@
 
 This project can perform money  calculations  and  is user friendly by making the user comfort.
 
+# SWOT ANALYSIS:
+ 
+ ![image](https://github.com/Varsha-5/M1_Project-name/blob/main/swot%20pic.png)
+ 
+ ## STRENGTH:
+  *  Resource Availability.
+  *  Skill Level and Research.
+  *  System Development.
+  *  Continuous Integration.
+
+ ## WEAKNESS:
+  * Timescale and Deadlines.
+  * Gaps in Knowledge and Practice.
+ 
+ ## OPPURTUNITIES:
+  * Optimization of the current system.
+  * Enlargement of the system scope.
+
+ ## THREATS:
+  * Hurdles faced.
+  * Emphasis on limited schemes.
+
+
 # Detail requirements
+
+
 ## High Level Requirements:
+
 
 | ID | Description | Status (Implemented/Future)|
 |:---:|:---:|:---:|
@@ -93,7 +119,10 @@ This project can perform money  calculations  and  is user friendly by making th
 |HLR-4| User shall be able to convert currency data from one country to Indian Equivalent and calculate denominations for more than 10 countries.|Future|
 |HLR-5| User shall be able to convert currency data from one country to any other country depending upon the user input.|Future|
 
+
 ##  Low level Requirements:
+
+
 | ID | Description | Status (Implemented/Future)|
 |:---:|:---:|:---:|
 |LLR-1|User shall be able to read the output data without any difficulties.|Implemented| 
