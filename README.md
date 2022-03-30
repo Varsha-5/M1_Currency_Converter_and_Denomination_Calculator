@@ -1,5 +1,7 @@
-# CURRENCY CONVERTER & DENOMINATIONCALCULATOR
- 
+# CURRENCY CONVERTER & DENOMINATION CALCULATOR
+
+![image](https://github.com/Varsha-5/M1_Project-name/blob/main/picture.png)
+
 # Badges:
  * Bulid:
 
