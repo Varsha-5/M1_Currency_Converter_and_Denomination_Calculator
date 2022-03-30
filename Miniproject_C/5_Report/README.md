@@ -1,5 +1,6 @@
 # CURRENCY EXCHANGER & DENOMINATION CALCULATOR
 
+![image](https://github.com/Varsha-5/M1_Project-name/blob/main/picture.png)
 
 # OBJECTIVE:
 
