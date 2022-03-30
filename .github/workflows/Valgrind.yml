@@ -20,4 +20,4 @@ jobs:
     - name: make test
       run:   make -C Miniproject_C/3_Implementation/ test
     - name: Valgrind
-      run:  valgrind ./MiniProject_C/3_Implementation/Build/Test_Currency_Converter_and_Denomination_Calculator.out
+      run:  valgrind ./MiniProject_C/3_Implementation
