@@ -36,12 +36,18 @@ Build | Code Quality | Unity | Analysis | [Git Inspector](using github.io option
 [![C/C++ CI](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/C-build.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/C-build.yml) | [![Code Quality Static Code - Cppcheck](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/cppcheck.yml) ![Codacy Badge](https://app.codacy.com/project/badge/Grade/ab8c67fa35dd40c4be627330ca352c2d) [![CI-Coverage](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/Coverage.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/Coverage.yml)          ![Codacy Code Quality Score](https://api.codiga.io/project/32184/score/svg)![Codacy Code Quality Badge](https://api.codiga.io/project/32184/status/svg)   [![Valgrind](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/Valgrind.yml) | [![Unit testing](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/unit.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/unit.yml) | [![Analysis](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/Analysis.yml) | [![Contribution Check - Git Inspector](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/Gitinspector.yml)
 ## Folder structure:
 
-| Folder | Description |
-| :---: | :---: |
-| `1_Requirements` | Documents detailing requirements and research |
-| `2_Design` | Documents specifying the flow of the project details |
-| `3_Implement` | Code with Documentation |
-| `4_TestOutputs_Plan` | Documents with Tested output and results |
+| Folder                |    Description                       |
+| :----------------:    | :----------------: |
+| `1_Requirements`      | Documents detailing requirements and research |
+| `2_Design`            | Documents specifying the flow of the project details |
+| `3_Implement`         | Code with Documentation |
+| `4_TestOutputs_Plan`  | Documents with Tested output and results |
+
+
+## Integrated Tools to GitHub
+
+*  [Codacy](https://www.codacy.com/)
+*  [Codiga](https://app.codiga.io/home)
 
 ## Contributors List and Summary
 
