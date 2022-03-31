@@ -3,33 +3,6 @@
 ![image](https://github.com/Varsha-5/M1_Project-name/blob/main/picture.png)
 
 # Badges:
- * Bulid:
-
- * [![C/C++ CI](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/C-build.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/C-build.yml)
- 
- * Codacy Static Code Analysis:
- 
- * [![Code Quality Static Code - Cppcheck](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/cppcheck.yml)
- 
- * Codiga Static Code Analysis:
- 
- * ![Codacy Code Quality Score](https://api.codiga.io/project/32184/score/svg)
- 
- * ![Codacy Code Quality Badge](https://api.codiga.io/project/32184/status/svg)
- 
- * Cppcheck Static code Analysis
- 
- * [![Code Quality Static Code - Cppcheck](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/cppcheck.yml)
-
- * Unit Testing:
- 
- * [![Unit testing](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/unit.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/unit.yml)
- 
- * Analysis:
- 
- * [![Analysis](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Varsha-5/M1_Project_2022/actions/workflows/Analysis.yml)
-
-# StepIn-Mini-project
 
 Build | Code Quality | Unity | Analysis | [Git Inspector](using github.io option)
 ------|----------|-------|---------------|----------------------  
