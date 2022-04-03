@@ -15,6 +15,8 @@ Build | Code Quality | Unity | Analysis | [Git Inspector](using github.io option
 | `2_Design`            | Documents specifying the flow of the project details |
 | `3_Implement`         | Code with Documentation |
 | `4_TestOutputs_Plan`  | Documents with Tested output and results |
+| `5_Report`            | Documents specifying the project goal and detailing Implementation |
+| `6_Images&Videos`     | Relevant images and videos of project implementation |
 
 
 ## Integrated Tools to GitHub
@@ -33,6 +35,14 @@ Build | Code Quality | Unity | Analysis | [Git Inspector](using github.io option
 
 1. **Generation of makefile:** To overcome this problem research on makefiles was done.
 2. **Unity testing:** Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
+
+
+# GitHub Actions
+* Build using Make for CI
+* Unit tests with Cunit
+* Static code analysis using cppcheck
+* Dynamic Code analysis using Valgrind
+* A Static Analysis using Git-Inspector
 
 ## Learning Resources
 1. [A Research on Currencies](https://www.nationsonline.org/oneworld/currencies.htm)
